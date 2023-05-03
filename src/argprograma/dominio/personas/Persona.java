@@ -6,7 +6,7 @@ public class Persona {
     private String nombre; // atributo nombre NO a la variable
     private String apellido;
 
-// metodog constructor
+// metodo constructor
     public Persona(String nombre, String apellido) {
         this.nombre = nombre;
         this.apellido = apellido;
